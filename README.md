@@ -7,4 +7,4 @@ Cokoino 4WD Control Board for Arduino
 - You will get a "CKK0015-main"ZIP file in your computer when the download task is finished,
 - ! Unzip the ZIP file instead of opening the file in the ZIP file directly.
 - ! Do not move, delete or rename files in the folder just unzipped.
-- ![Image text](https://github.com/Cokoino/Image/blob/main/CKK0016.png)
+- ![Image text](https://github.com/Cokoino/Image/blob/main/CKK0019.png)
